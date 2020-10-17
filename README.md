@@ -10,6 +10,7 @@ Comprenant ; les ancres, backlinks, domaines et une petite liste de liens.
 ## Installation
 
 ```bash
+git clone https://github.com/drogbadvc/free-backlink-data.git
 composer install
 ```
 ## Configuration
